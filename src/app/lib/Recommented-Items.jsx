@@ -1,0 +1,38 @@
+export const recommendedItemsData = [
+  {
+    id: 1,
+    price: '$500.00',
+    timestamp: '1hr ago',
+    title: 'Iphone 6s, 10/10 condition..',
+    location: 'College Road, Islamabad',
+    imageSrc: 'Rectangle 9532.svg',
+    isFavorited: true,
+  },
+  {
+    id: 2,
+    price: '$500.00',
+    timestamp: '1hr ago',
+    title: 'Iphone 6s, 10/10 condition..',
+    location: 'College Road, Islamabad',
+    imageSrc: 'Image1.svg',
+    isFavorited: false,
+  },
+  {
+    id: 3,
+    price: '$500.00',
+    timestamp: '1hr ago',
+    title: 'Iphone 6s, 10/10 condition..',
+    location: 'College Road, Islamabad',
+    imageSrc: 'Image2.svg',
+    isFavorited: false,
+  },
+  {
+    id: 4,
+    price: '$500.00',
+    timestamp: '1hr ago',
+    title: 'Iphone 6s, 10/10 condition..',
+    location: 'College Road, Islamabad',
+    imageSrc: 'Image3.svg',
+    isFavorited: false,
+  },
+];
